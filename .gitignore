@@ -1,0 +1,17 @@
+# Composer
+composer.lock
+docs
+vendor
+
+# NPM
+node_modules
+.idea/
+
+# Laravel mix
+mix-manifest.json
+
+# PHPUnit
+build
+coverage
+.phpunit.result.cache
+.php_cs.cache

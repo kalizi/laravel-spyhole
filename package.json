@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "npm run development",
+        "development": "mix",
+        "watch": "mix watch",
+        "watch-poll": "mix watch -- --watch-options-poll=1000",
+        "prod": "npm run production",
+        "production": "mix --production",
+        "lint": "eslint resources/js",
+        "lint-fix": "eslint --fix resources/js",
+        "prettify": "prettier --write resources/js"
+    },
+    "devDependencies": {
+        "eslint": "^7.18.0",
+        "eslint-config-prettier": "^7.2.0",
+        "eslint-plugin-prettier": "^3.3.1",
+        "laravel-mix": "^6.0.10",
+        "postcss": "^8.1.14",
+        "prettier": "^2.2.1"
+    }
+}

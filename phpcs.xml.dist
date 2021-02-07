@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ruleset name="SpyholeRules" namespace="Kalizi\\LaravelSpyhole">
+    <rule ref="PSR12">
+        <exclude name="PSR12.Files.FileHeader" />
+        <exclude name="PSR12.Files.OpenTag" />
+    </rule>
+</ruleset>
