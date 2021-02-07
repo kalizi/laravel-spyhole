@@ -6,7 +6,7 @@
     <a href="https://packagist.org/packages/kalizi/laravel-spyhole"><img src="https://img.shields.io/packagist/v/kalizi/laravel-spyhole" alt="Latest Stable Version"></a>
     <a href="https://packagist.org/packages/kalizi/laravel-spyhole"><img src="https://img.shields.io/packagist/l/kalizi/laravel-spyhole" alt="License"></a>
     <a href="https://scrutinizer-ci.com/g/kalizi/laravel-spyhole"><img src="https://img.shields.io/scrutinizer/g/kalizi/laravel-spyhole.svg?style=flat-square" alt="Quality Score"></a>
-    <a href="https://travis-ci.org/kalizi/laravel-spyhole"><img src="https://img.shields.io/travis/kalizi/laravel-spyhole/master.svg?style=flat-square" alt="Build Status"></a>
+    <a href="https://travis-ci.com/kalizi/laravel-spyhole"><img src="https://api.travis-ci.com/kalizi/laravel-spyhole.svg?branch=main&status=passed" alt="Build Status"></a></a>
 </p>
 
 Laravel Telescope is a user session recorder for the Laravel Framework. Laravel Spyhole is a wrapper for the JS Library [RRWeb](https://www.rrweb.io/) (Record and replay the web). It allows a simple way to embed the Recorder into your views and start recordings out-of-the-box.
